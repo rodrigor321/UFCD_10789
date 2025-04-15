@@ -6,4 +6,3 @@ for i in range(10):
  
 media = soma / 10
 print("a media das notas é", media)
- 
